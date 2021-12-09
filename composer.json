@@ -6,13 +6,7 @@
             "email": "amrullahdev@gmail.com"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Amrdevac\\ConvertToArrayPhp\\ConvertDataServiceProvider::class"
-            ]
-        }
-    },
+    
     "require": {
         "composer-plugin-api": "^2.0",
         "php": "^7 || ^8"

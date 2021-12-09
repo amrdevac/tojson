@@ -8,7 +8,14 @@
     ],
     "autoload": {
         "psr-4": {
-            "Amrdevac\\ConvertToArrayPhp\\": "src/"
+            "Amrdevac\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers":[
+                "Amrdevac\\Commands\\ConvertDataServiceProvider"
+            ]
         }
     },
     "minimum-stability": "dev",

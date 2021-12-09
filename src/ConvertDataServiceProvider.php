@@ -1,6 +1,6 @@
 <?php
 
-namespace Amrdevac\tojson;
+namespace Amrdevac\Commands;
 
 
 use Illuminate\Support\ServiceProvider;

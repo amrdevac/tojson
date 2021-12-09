@@ -8,13 +8,14 @@
     ],
     "autoload": {
         "psr-4": {
-            "Amrdevac\\": "src/"
+            "Amrdevac\\tojson\\": "src"
         }
     },
+
     "extra": {
         "laravel": {
             "providers":[
-                "Amrdevac\\Commands\\ConvertDataServiceProvider"
+                "Amrdevac\\Tojson\\ConvertDataServiceProvider"
             ]
         }
     },

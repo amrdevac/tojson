@@ -1,5 +1,6 @@
 {
     "name": "amrdevac/convert-to-array-php",
+    "composer-runtime-api": "^2.0",
     "authors": [
         {
             "name": "Fahmi Amrullah",

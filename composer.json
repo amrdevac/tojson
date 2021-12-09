@@ -1,0 +1,17 @@
+{
+    "name": "amrdevac/convert-to-array-php",
+    "authors": [
+        {
+            "name": "Fahmi Amrullah",
+            "email": "amrullahdev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Amrdevac\\ConvertToArrayPhp\\ConvertDataServiceProvider::class"
+            ]
+        }
+    },
+    "require": {}
+}

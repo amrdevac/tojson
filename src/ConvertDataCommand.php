@@ -1,6 +1,6 @@
 <?php
 
-namespace Amrdevac\ConvertToArrayPhp;
+namespace Amrdevac\tojson;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;

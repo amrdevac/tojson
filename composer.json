@@ -6,6 +6,13 @@
             "email": "amrullahdev@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Amrdevac\\ConvertToArrayPhp\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     
     "require": {
         "composer-plugin-api": "^2.0",

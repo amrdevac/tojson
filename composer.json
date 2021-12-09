@@ -6,19 +6,7 @@
             "email": "amrullahdev@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "Amrdevac\\Tojson\\": "src"
-        }
-    },
-
-    "extra": {
-        "laravel": {
-            "providers":[
-                "ConvertDataServiceProvider"
-            ]
-        }
-    },
+    
     "minimum-stability": "dev",
     "prefer-stable": true,
     
